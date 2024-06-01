@@ -2,4 +2,7 @@
 - 👀 I’m interested in building Fullstack web application.
 - 🌱 I’m currently learning MERN stack
 - 💞️ I’m looking to collaborate on any interesting idea that solve real life problems
-- 📫 How to reach me joshster.ritik@gmail.com
+- 📫 How to reach me
+- 📨:joshster.ritik@gmail.com
+- Instagram: https://www.instagram.com/_ritik_joshi_/
+- Facebook: https://www.facebook.com/ritik.joshi22
