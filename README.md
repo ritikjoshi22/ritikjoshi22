@@ -6,3 +6,4 @@
 - 📨:joshster.ritik@gmail.com
 - Instagram: https://www.instagram.com/_ritik_joshi_/
 - Facebook: https://www.facebook.com/ritik.joshi22
+- LinkedIn: https://www.linkedin.com/in/ritik-joshi-68317a267/
